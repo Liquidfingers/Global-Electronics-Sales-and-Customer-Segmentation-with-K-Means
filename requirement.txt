@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+sql
+microsoft excel
+jupyter
